@@ -1,8 +1,16 @@
+
 # 🧰 Portfolio Freelance – Miriam
 
 Proyectos reales, certificados y servicios digitales. Diseño web, auditoría, publicidad visual, organización digital y soporte técnico-administrativo. Actualmente en capacitación en testing.
 
 ---
+## 🎓Títulos:
+++ Programadora: año 2001 - Visual Basic, Unix, Linux y C
+++ Analista de Sistemas: año 2002 - Diagramas de flujos, Redacción de Ante Proyecto y Proyecto, Estudios de Factibilidad.
+++ Licenciada en Sistemas: año 2003 - Auditoría informática, Liderazgo, RRHH, Gestión Empresarial.
+++ Programadora FRONEND: año 2025 - HTML, CSS, Github, Git Bash.
+++ Inglés Intermedio: Lectura/Escritura.
+++ Testing: en capacitación.
 
 ## 🛠️ Servicios
 
@@ -11,7 +19,7 @@ Proyectos reales, certificados y servicios digitales. Diseño web, auditoría, p
 - 📢 Publicidad visual para redes sociales
 - 🗂️ Organización digital: carpetas, correos, archivos y documentación
 - 🧾 Soporte técnico-administrativo
-- 🧪 Capacitación en testing
+- 🧪 Testing (actualmente en capacitación)
 
 ---
 
