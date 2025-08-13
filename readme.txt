@@ -6,7 +6,7 @@ Proyectos reales, certificados y servicios digitales. Diseño web, auditoría, p
 ---
 ## 🎓Títulos:
 ++ Programadora: año 2001 - Visual Basic, Unix, Linux y C
-++ Analista de Sistemas: año 2002 - Diagramas de flujos, Redacción de Ante Proyecto y Proyecto, Estudios de Factibilidad.
+++ Analista de Sistemas: año 2002 - Diagramas de flujos, Redacción de Ante_Proyecto y Proyecto, Estudio de Factibilidad.
 ++ Licenciada en Sistemas: año 2003 - Auditoría informática, Liderazgo, RRHH, Gestión Empresarial.
 ++ Programadora FRONEND: año 2025 - HTML, CSS, Github, Git Bash.
 ++ Inglés Intermedio: Lectura/Escritura.
@@ -27,7 +27,7 @@ Proyectos reales, certificados y servicios digitales. Diseño web, auditoría, p
 
 - **Airbnmi** – Branding, diseño web y optimización visual
 - **Taller DC** – Carpeta institucional: redacción, diseño y formato PDF
-- **Publicidad solar** – Animaciones para redes sobre termotanques solares
+- **Publicidad Redes** – Animaciones para redes sobre termotanques solares
 
 ---
 
