@@ -1,8 +1,4 @@
-párrafos
-
-alojamientoSantiago, Chile
-3 huéspedes1 dormitorio1 cama1 baño
-
+Párrafos
 
 Santiago
 
@@ -39,7 +35,6 @@ Habitación en Madrid, España
 Calificación: 4,91 de 5 estrellas.
 
 Miami
-
 
 Gables Grove Room
 Vivienda unifamiliar en Miami, Florida, Estados Unidos
@@ -98,4 +93,5 @@ Combino masajes, aromaterapia y cuidado personal para mejorar el cuerpo y la men
 Yoga ritual con Ana
 Soy profesora de yoga certificada que entrené en Bali.
 Flujo vinyasa
+
 Esta clase dinámica es ideal para ocasiones especiales, con amigos o en pareja. Disfrútala en el bosque de Chapultepec o en el lugar de tu preferencia.
