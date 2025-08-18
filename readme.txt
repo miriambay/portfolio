@@ -34,6 +34,8 @@ Proyectos reales, certificados y servicios digitales. Diseño web, auditoría, p
 ## 📜 Certificados
 
 > 🧑‍💻 Curso de Teletrabajo – Keiwebco (2020) Validación básica para trabajo remoto internacional.
+> 🧑‍💻 Curso de FrontEnd / Inglés/ H.S.E. (2025) - POTRERO DIGITAL - Certificado en trámite.
+
 
 ---
 
@@ -41,6 +43,6 @@ Proyectos reales, certificados y servicios digitales. Diseño web, auditoría, p
 
 - Email: miriambay2020@gmail.com
 - Celular: +5492604000736
-- LinkedIn / Instagram / GitHub: https://github.com/miriambay/portfolio 
+- LinkedIn: https://www.linkedin.com/in/miriambay / GitHub: https://github.com/miriambay/portfolio 
 ---
 
