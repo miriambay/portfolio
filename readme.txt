@@ -34,7 +34,7 @@ Proyectos reales, certificados y servicios digitales. Diseño web, auditoría, p
 ## 📜 Certificados
 
 > 🧑‍💻 Curso de Teletrabajo – Keiwebco (2020) Validación básica para trabajo remoto internacional.
-> 🧑‍💻 Curso de FrontEnd / Inglés/ H.S.E. (2025) - POTRERO DIGITAL - Certificado en trámite.
+> 🧑‍💻 Curso de FrontEnd / Inglés/ H.S.E. (2025) - POTRERO DIGITAL -
 
 
 ---
